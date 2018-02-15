@@ -87,7 +87,7 @@ NEW_GID=1000
 ###
 ### Timezone for all dockers and service config files
 ###
-TIMEZONE=Europe/Berlin
+TIMEZONE=US/Pacific
 
 
 
